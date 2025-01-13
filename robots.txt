@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abewcekut.github.io/anakhoki/sitemap.xml
